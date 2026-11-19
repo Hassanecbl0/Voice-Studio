@@ -1,0 +1,11 @@
+# Core Deep Learning & Audio
+TTS
+transformers<4.40.0
+faster-whisper
+soundfile
+scipy
+numpy
+librosa
+
+# Web Interface
+gradio>=4.0.0
